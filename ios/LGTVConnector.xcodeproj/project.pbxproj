@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* MyNativeProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MyNativeProjectTests.m */; };
-		03A307CC0E8B89C0A133FBB7 /* libPods-MyNativeProject.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02FE2B519CC1ABEABA737404 /* libPods-MyNativeProject.a */; };
+		00E356F31AD99517003FC87E /* LGTVConnectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* LGTVConnectorTests.m */; };
+		03A307CC0E8B89C0A133FBB7 /* libPods-LGTVConnector.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02FE2B519CC1ABEABA737404 /* libPods-LGTVConnector.a */; };
+		0901A3E6B5F94ABC87A2831B /* Exo2-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA8C75EE39A64063AB960C4C /* Exo2-Bold.ttf */; };
+		0A2235E9F80E4E1F959C0604 /* Exo2-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EA0862714C74F86BF92C7D9 /* Exo2-LightItalic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		383DBE35C850C11257E964AB /* libPods-MyNativeProject-MyNativeProjectTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 14E6AC6448A6000A2642B51E /* libPods-MyNativeProject-MyNativeProjectTests.a */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		CFAD67DDB96A424E99DF4FF2 /* Exo2-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD154E4385314323B2CCB94D /* Exo2-Black.ttf */; };
-		643A4E2B2E384C9189148E36 /* Exo2-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 91CA2930164445358E486B9D /* Exo2-BlackItalic.ttf */; };
-		0901A3E6B5F94ABC87A2831B /* Exo2-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA8C75EE39A64063AB960C4C /* Exo2-Bold.ttf */; };
-		DC61A002580D479AB53C6CD6 /* Exo2-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55A664F5BF7E4C3EA2DAAC0A /* Exo2-BoldItalic.ttf */; };
 		1BFF3402A50D4618B8D6C4A8 /* Exo2-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4ACC2BEF9BDB4751B4D4B0EA /* Exo2-ExtraBold.ttf */; };
-		A7E9BBC236244F969A28E782 /* Exo2-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B84E7D8F20A94E6DB4ED922B /* Exo2-ExtraBoldItalic.ttf */; };
+		294B88E217364CD298CF3EAE /* Exo2-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDB5304E545F4BCFBC93FE65 /* Exo2-SemiBoldItalic.ttf */; };
+		383DBE35C850C11257E964AB /* libPods-LGTVConnector-LGTVConnectorTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 14E6AC6448A6000A2642B51E /* libPods-LGTVConnector-LGTVConnectorTests.a */; };
 		3C96D78C788E4E0CBCACA865 /* Exo2-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 418DA5B1A2124D938FCE1739 /* Exo2-ExtraLight.ttf */; };
-		CC1DDDAC2DD2495E87A00859 /* Exo2-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F80588485C14861B36D4C7E /* Exo2-ExtraLightItalic.ttf */; };
-		7C99AEE7D9EA4E668E8C5C94 /* Exo2-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9098D0E357946DF87A11F19 /* Exo2-Italic.ttf */; };
-		8DD93168CAE34513B58F1290 /* Exo2-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34B4009C122443D298CD11DA /* Exo2-Light.ttf */; };
-		0A2235E9F80E4E1F959C0604 /* Exo2-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EA0862714C74F86BF92C7D9 /* Exo2-LightItalic.ttf */; };
 		414D9576BF504B7D8F6951F7 /* Exo2-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DBF278E38C654A1698C7734A /* Exo2-Medium.ttf */; };
+		643A4E2B2E384C9189148E36 /* Exo2-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 91CA2930164445358E486B9D /* Exo2-BlackItalic.ttf */; };
+		7C99AEE7D9EA4E668E8C5C94 /* Exo2-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9098D0E357946DF87A11F19 /* Exo2-Italic.ttf */; };
+		7D2E903059444A6DA87BE898 /* Exo2-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96E5DBBD2B9445D1AE781F1E /* Exo2-ThinItalic.ttf */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8DD93168CAE34513B58F1290 /* Exo2-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34B4009C122443D298CD11DA /* Exo2-Light.ttf */; };
+		A7E9BBC236244F969A28E782 /* Exo2-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B84E7D8F20A94E6DB4ED922B /* Exo2-ExtraBoldItalic.ttf */; };
+		BC4EF9F060D44DE38B08B31D /* Exo2-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9076B7A40C142DD97875AE4 /* Exo2-SemiBold.ttf */; };
+		CC1DDDAC2DD2495E87A00859 /* Exo2-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F80588485C14861B36D4C7E /* Exo2-ExtraLightItalic.ttf */; };
+		CFAD67DDB96A424E99DF4FF2 /* Exo2-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD154E4385314323B2CCB94D /* Exo2-Black.ttf */; };
+		DC61A002580D479AB53C6CD6 /* Exo2-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55A664F5BF7E4C3EA2DAAC0A /* Exo2-BoldItalic.ttf */; };
+		E9BB520491D847AF975930AF /* Exo2-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3BC5B885F7F946598D43B236 /* Exo2-Thin.ttf */; };
 		F1EFFCBE2F17445B979EE832 /* Exo2-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3026EB5DC50455F84514945 /* Exo2-MediumItalic.ttf */; };
 		F917FC2B675A497890F169FC /* Exo2-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD414D0D2D0B41BDB02C3714 /* Exo2-Regular.ttf */; };
-		BC4EF9F060D44DE38B08B31D /* Exo2-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9076B7A40C142DD97875AE4 /* Exo2-SemiBold.ttf */; };
-		294B88E217364CD298CF3EAE /* Exo2-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDB5304E545F4BCFBC93FE65 /* Exo2-SemiBoldItalic.ttf */; };
-		E9BB520491D847AF975930AF /* Exo2-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3BC5B885F7F946598D43B236 /* Exo2-Thin.ttf */; };
-		7D2E903059444A6DA87BE898 /* Exo2-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96E5DBBD2B9445D1AE781F1E /* Exo2-ThinItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,46 +40,46 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = MyNativeProject;
+			remoteInfo = LGTVConnector;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* MyNativeProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyNativeProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* LGTVConnectorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LGTVConnectorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* MyNativeProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyNativeProjectTests.m; sourceTree = "<group>"; };
-		02FE2B519CC1ABEABA737404 /* libPods-MyNativeProject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyNativeProject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* MyNativeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyNativeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MyNativeProject/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = MyNativeProject/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MyNativeProject/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MyNativeProject/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MyNativeProject/main.m; sourceTree = "<group>"; };
-		14E6AC6448A6000A2642B51E /* libPods-MyNativeProject-MyNativeProjectTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyNativeProject-MyNativeProjectTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7615C1F1BD210FC45D1E192B /* Pods-MyNativeProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNativeProject.debug.xcconfig"; path = "Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject.debug.xcconfig"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MyNativeProject/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8DF72E1C1E81641434ADF1F4 /* Pods-MyNativeProject-MyNativeProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNativeProject-MyNativeProjectTests.release.xcconfig"; path = "Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests.release.xcconfig"; sourceTree = "<group>"; };
-		98CA0F49F6E2694AFC3018EE /* Pods-MyNativeProject-MyNativeProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNativeProject-MyNativeProjectTests.debug.xcconfig"; path = "Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* LGTVConnectorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGTVConnectorTests.m; sourceTree = "<group>"; };
+		02FE2B519CC1ABEABA737404 /* libPods-LGTVConnector.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LGTVConnector.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* LGTVConnector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LGTVConnector.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = LGTVConnector/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = LGTVConnector/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = LGTVConnector/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = LGTVConnector/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = LGTVConnector/main.m; sourceTree = "<group>"; };
+		14E6AC6448A6000A2642B51E /* libPods-LGTVConnector-LGTVConnectorTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LGTVConnector-LGTVConnectorTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EA0862714C74F86BF92C7D9 /* Exo2-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-LightItalic.ttf"; path = "../assets/fonts/Exo2-LightItalic.ttf"; sourceTree = "<group>"; };
+		2F80588485C14861B36D4C7E /* Exo2-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-ExtraLightItalic.ttf"; path = "../assets/fonts/Exo2-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		34B4009C122443D298CD11DA /* Exo2-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Light.ttf"; path = "../assets/fonts/Exo2-Light.ttf"; sourceTree = "<group>"; };
+		3BC5B885F7F946598D43B236 /* Exo2-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Thin.ttf"; path = "../assets/fonts/Exo2-Thin.ttf"; sourceTree = "<group>"; };
+		418DA5B1A2124D938FCE1739 /* Exo2-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-ExtraLight.ttf"; path = "../assets/fonts/Exo2-ExtraLight.ttf"; sourceTree = "<group>"; };
+		4ACC2BEF9BDB4751B4D4B0EA /* Exo2-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-ExtraBold.ttf"; path = "../assets/fonts/Exo2-ExtraBold.ttf"; sourceTree = "<group>"; };
+		55A664F5BF7E4C3EA2DAAC0A /* Exo2-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-BoldItalic.ttf"; path = "../assets/fonts/Exo2-BoldItalic.ttf"; sourceTree = "<group>"; };
+		7615C1F1BD210FC45D1E192B /* Pods-LGTVConnector.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGTVConnector.debug.xcconfig"; path = "Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector.debug.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = LGTVConnector/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8DF72E1C1E81641434ADF1F4 /* Pods-LGTVConnector-LGTVConnectorTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGTVConnector-LGTVConnectorTests.release.xcconfig"; path = "Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests.release.xcconfig"; sourceTree = "<group>"; };
+		91CA2930164445358E486B9D /* Exo2-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-BlackItalic.ttf"; path = "../assets/fonts/Exo2-BlackItalic.ttf"; sourceTree = "<group>"; };
+		96E5DBBD2B9445D1AE781F1E /* Exo2-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-ThinItalic.ttf"; path = "../assets/fonts/Exo2-ThinItalic.ttf"; sourceTree = "<group>"; };
+		98CA0F49F6E2694AFC3018EE /* Pods-LGTVConnector-LGTVConnectorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGTVConnector-LGTVConnectorTests.debug.xcconfig"; path = "Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests.debug.xcconfig"; sourceTree = "<group>"; };
+		AA8C75EE39A64063AB960C4C /* Exo2-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Bold.ttf"; path = "../assets/fonts/Exo2-Bold.ttf"; sourceTree = "<group>"; };
+		B84E7D8F20A94E6DB4ED922B /* Exo2-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-ExtraBoldItalic.ttf"; path = "../assets/fonts/Exo2-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		BDB5304E545F4BCFBC93FE65 /* Exo2-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-SemiBoldItalic.ttf"; path = "../assets/fonts/Exo2-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		C9076B7A40C142DD97875AE4 /* Exo2-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-SemiBold.ttf"; path = "../assets/fonts/Exo2-SemiBold.ttf"; sourceTree = "<group>"; };
+		CD154E4385314323B2CCB94D /* Exo2-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Black.ttf"; path = "../assets/fonts/Exo2-Black.ttf"; sourceTree = "<group>"; };
+		DBF278E38C654A1698C7734A /* Exo2-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Medium.ttf"; path = "../assets/fonts/Exo2-Medium.ttf"; sourceTree = "<group>"; };
+		E3026EB5DC50455F84514945 /* Exo2-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-MediumItalic.ttf"; path = "../assets/fonts/Exo2-MediumItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		EDAC0C3344674DDF9A03B45E /* Pods-MyNativeProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNativeProject.release.xcconfig"; path = "Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject.release.xcconfig"; sourceTree = "<group>"; };
-		CD154E4385314323B2CCB94D /* Exo2-Black.ttf */ = {isa = PBXFileReference; name = "Exo2-Black.ttf"; path = "../assets/fonts/Exo2-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		91CA2930164445358E486B9D /* Exo2-BlackItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-BlackItalic.ttf"; path = "../assets/fonts/Exo2-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		AA8C75EE39A64063AB960C4C /* Exo2-Bold.ttf */ = {isa = PBXFileReference; name = "Exo2-Bold.ttf"; path = "../assets/fonts/Exo2-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		55A664F5BF7E4C3EA2DAAC0A /* Exo2-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-BoldItalic.ttf"; path = "../assets/fonts/Exo2-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4ACC2BEF9BDB4751B4D4B0EA /* Exo2-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Exo2-ExtraBold.ttf"; path = "../assets/fonts/Exo2-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B84E7D8F20A94E6DB4ED922B /* Exo2-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-ExtraBoldItalic.ttf"; path = "../assets/fonts/Exo2-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		418DA5B1A2124D938FCE1739 /* Exo2-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Exo2-ExtraLight.ttf"; path = "../assets/fonts/Exo2-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		2F80588485C14861B36D4C7E /* Exo2-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-ExtraLightItalic.ttf"; path = "../assets/fonts/Exo2-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F9098D0E357946DF87A11F19 /* Exo2-Italic.ttf */ = {isa = PBXFileReference; name = "Exo2-Italic.ttf"; path = "../assets/fonts/Exo2-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		34B4009C122443D298CD11DA /* Exo2-Light.ttf */ = {isa = PBXFileReference; name = "Exo2-Light.ttf"; path = "../assets/fonts/Exo2-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		1EA0862714C74F86BF92C7D9 /* Exo2-LightItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-LightItalic.ttf"; path = "../assets/fonts/Exo2-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DBF278E38C654A1698C7734A /* Exo2-Medium.ttf */ = {isa = PBXFileReference; name = "Exo2-Medium.ttf"; path = "../assets/fonts/Exo2-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E3026EB5DC50455F84514945 /* Exo2-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-MediumItalic.ttf"; path = "../assets/fonts/Exo2-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		FD414D0D2D0B41BDB02C3714 /* Exo2-Regular.ttf */ = {isa = PBXFileReference; name = "Exo2-Regular.ttf"; path = "../assets/fonts/Exo2-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C9076B7A40C142DD97875AE4 /* Exo2-SemiBold.ttf */ = {isa = PBXFileReference; name = "Exo2-SemiBold.ttf"; path = "../assets/fonts/Exo2-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BDB5304E545F4BCFBC93FE65 /* Exo2-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-SemiBoldItalic.ttf"; path = "../assets/fonts/Exo2-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3BC5B885F7F946598D43B236 /* Exo2-Thin.ttf */ = {isa = PBXFileReference; name = "Exo2-Thin.ttf"; path = "../assets/fonts/Exo2-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		96E5DBBD2B9445D1AE781F1E /* Exo2-ThinItalic.ttf */ = {isa = PBXFileReference; name = "Exo2-ThinItalic.ttf"; path = "../assets/fonts/Exo2-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EDAC0C3344674DDF9A03B45E /* Pods-LGTVConnector.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGTVConnector.release.xcconfig"; path = "Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector.release.xcconfig"; sourceTree = "<group>"; };
+		F9098D0E357946DF87A11F19 /* Exo2-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Italic.ttf"; path = "../assets/fonts/Exo2-Italic.ttf"; sourceTree = "<group>"; };
+		FD414D0D2D0B41BDB02C3714 /* Exo2-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Exo2-Regular.ttf"; path = "../assets/fonts/Exo2-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				383DBE35C850C11257E964AB /* libPods-MyNativeProject-MyNativeProjectTests.a in Frameworks */,
+				383DBE35C850C11257E964AB /* libPods-LGTVConnector-LGTVConnectorTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,20 +95,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				03A307CC0E8B89C0A133FBB7 /* libPods-MyNativeProject.a in Frameworks */,
+				03A307CC0E8B89C0A133FBB7 /* libPods-LGTVConnector.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* MyNativeProjectTests */ = {
+		00E356EF1AD99517003FC87E /* LGTVConnectorTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* MyNativeProjectTests.m */,
+				00E356F21AD99517003FC87E /* LGTVConnectorTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = MyNativeProjectTests;
+			path = LGTVConnectorTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -119,7 +119,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* MyNativeProject */ = {
+		13B07FAE1A68108700A75B9A /* LGTVConnector */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -129,15 +129,15 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = MyNativeProject;
+			name = LGTVConnector;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				02FE2B519CC1ABEABA737404 /* libPods-MyNativeProject.a */,
-				14E6AC6448A6000A2642B51E /* libPods-MyNativeProject-MyNativeProjectTests.a */,
+				02FE2B519CC1ABEABA737404 /* libPods-LGTVConnector.a */,
+				14E6AC6448A6000A2642B51E /* libPods-LGTVConnector-LGTVConnectorTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -152,9 +152,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* MyNativeProject */,
+				13B07FAE1A68108700A75B9A /* LGTVConnector */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* MyNativeProjectTests */,
+				00E356EF1AD99517003FC87E /* LGTVConnectorTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				E16215B7631C467DADCC4E65 /* Pods */,
@@ -168,26 +168,14 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* MyNativeProject.app */,
-				00E356EE1AD99517003FC87E /* MyNativeProjectTests.xctest */,
+				13B07F961A680F5B00A75B9A /* LGTVConnector.app */,
+				00E356EE1AD99517003FC87E /* LGTVConnectorTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E16215B7631C467DADCC4E65 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				7615C1F1BD210FC45D1E192B /* Pods-MyNativeProject.debug.xcconfig */,
-				EDAC0C3344674DDF9A03B45E /* Pods-MyNativeProject.release.xcconfig */,
-				98CA0F49F6E2694AFC3018EE /* Pods-MyNativeProject-MyNativeProjectTests.debug.xcconfig */,
-				8DF72E1C1E81641434ADF1F4 /* Pods-MyNativeProject-MyNativeProjectTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		D3C73AD0A84A48ADA9712072 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				CD154E4385314323B2CCB94D /* Exo2-Black.ttf */,
 				91CA2930164445358E486B9D /* Exo2-BlackItalic.ttf */,
@@ -209,15 +197,27 @@
 				96E5DBBD2B9445D1AE781F1E /* Exo2-ThinItalic.ttf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
+		};
+		E16215B7631C467DADCC4E65 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7615C1F1BD210FC45D1E192B /* Pods-LGTVConnector.debug.xcconfig */,
+				EDAC0C3344674DDF9A03B45E /* Pods-LGTVConnector.release.xcconfig */,
+				98CA0F49F6E2694AFC3018EE /* Pods-LGTVConnector-LGTVConnectorTests.debug.xcconfig */,
+				8DF72E1C1E81641434ADF1F4 /* Pods-LGTVConnector-LGTVConnectorTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* MyNativeProjectTests */ = {
+		00E356ED1AD99517003FC87E /* LGTVConnectorTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MyNativeProjectTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "LGTVConnectorTests" */;
 			buildPhases = (
 				B8BEED077F39EAC1A8F4A042 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -231,14 +231,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = MyNativeProjectTests;
-			productName = MyNativeProjectTests;
-			productReference = 00E356EE1AD99517003FC87E /* MyNativeProjectTests.xctest */;
+			name = LGTVConnectorTests;
+			productName = LGTVConnectorTests;
+			productReference = 00E356EE1AD99517003FC87E /* LGTVConnectorTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* MyNativeProject */ = {
+		13B07F861A680F5B00A75B9A /* LGTVConnector */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MyNativeProject" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "LGTVConnector" */;
 			buildPhases = (
 				3673C5A38FCC2B87569F2F96 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -253,9 +253,9 @@
 			);
 			dependencies = (
 			);
-			name = MyNativeProject;
-			productName = MyNativeProject;
-			productReference = 13B07F961A680F5B00A75B9A /* MyNativeProject.app */;
+			name = LGTVConnector;
+			productName = LGTVConnector;
+			productReference = 13B07F961A680F5B00A75B9A /* LGTVConnector.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -275,7 +275,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MyNativeProject" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "LGTVConnector" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -288,8 +288,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* MyNativeProject */,
-				00E356ED1AD99517003FC87E /* MyNativeProjectTests */,
+				13B07F861A680F5B00A75B9A /* LGTVConnector */,
+				00E356ED1AD99517003FC87E /* LGTVConnectorTests */,
 			);
 		};
 /* End PBXProject section */
@@ -352,15 +352,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		3673C5A38FCC2B87569F2F96 /* [CP] Check Pods Manifest.lock */ = {
@@ -378,7 +378,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MyNativeProject-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LGTVConnector-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -391,15 +391,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject-MyNativeProjectTests/Pods-MyNativeProject-MyNativeProjectTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector-LGTVConnectorTests/Pods-LGTVConnector-LGTVConnectorTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A6ED6FF896F4C8AB0A0A36D8 /* [CP] Embed Pods Frameworks */ = {
@@ -408,15 +408,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		B8BEED077F39EAC1A8F4A042 /* [CP] Check Pods Manifest.lock */ = {
@@ -434,7 +434,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MyNativeProject-MyNativeProjectTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LGTVConnector-LGTVConnectorTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -466,15 +466,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyNativeProject/Pods-MyNativeProject-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LGTVConnector/Pods-LGTVConnector-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -484,7 +484,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* MyNativeProjectTests.m in Sources */,
+				00E356F31AD99517003FC87E /* LGTVConnectorTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -502,7 +502,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* MyNativeProject */;
+			target = 13B07F861A680F5B00A75B9A /* LGTVConnector */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -510,14 +510,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 98CA0F49F6E2694AFC3018EE /* Pods-MyNativeProject-MyNativeProjectTests.debug.xcconfig */;
+			baseConfigurationReference = 98CA0F49F6E2694AFC3018EE /* Pods-LGTVConnector-LGTVConnectorTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = MyNativeProjectTests/Info.plist;
+				INFOPLIST_FILE = LGTVConnectorTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -531,17 +531,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyNativeProject.app/MyNativeProject";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LGTVConnector.app/LGTVConnector";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8DF72E1C1E81641434ADF1F4 /* Pods-MyNativeProject-MyNativeProjectTests.release.xcconfig */;
+			baseConfigurationReference = 8DF72E1C1E81641434ADF1F4 /* Pods-LGTVConnector-LGTVConnectorTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = MyNativeProjectTests/Info.plist;
+				INFOPLIST_FILE = LGTVConnectorTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -555,19 +555,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyNativeProject.app/MyNativeProject";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LGTVConnector.app/LGTVConnector";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7615C1F1BD210FC45D1E192B /* Pods-MyNativeProject.debug.xcconfig */;
+			baseConfigurationReference = 7615C1F1BD210FC45D1E192B /* Pods-LGTVConnector.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = MyNativeProject/Info.plist;
+				INFOPLIST_FILE = LGTVConnector/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -578,7 +578,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = MyNativeProject;
+				PRODUCT_NAME = LGTVConnector;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -587,12 +587,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EDAC0C3344674DDF9A03B45E /* Pods-MyNativeProject.release.xcconfig */;
+			baseConfigurationReference = EDAC0C3344674DDF9A03B45E /* Pods-LGTVConnector.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = MyNativeProject/Info.plist;
+				INFOPLIST_FILE = LGTVConnector/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -603,7 +603,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = MyNativeProject;
+				PRODUCT_NAME = LGTVConnector;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -737,7 +737,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MyNativeProjectTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "LGTVConnectorTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -746,7 +746,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MyNativeProject" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "LGTVConnector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -755,7 +755,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MyNativeProject" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "LGTVConnector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
